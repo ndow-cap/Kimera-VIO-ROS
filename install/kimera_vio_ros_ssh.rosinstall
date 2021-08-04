@@ -40,11 +40,11 @@
     version: master
 - git:
     local-name: Kimera-VIO
-    uri: git@github.com:MIT-SPARK/Kimera-VIO.git
+    uri: git@github.com:ndow-cap/Kimera-VIO.git
     version: master
 - git:
     local-name: Kimera-VIO-ROS
-    uri: git@github.com:MIT-SPARK/Kimera-VIO-ROS.git
+    uri: git@github.com:ndow-cap/Kimera-VIO-ROS.git
     version: master
 - git:
     local-name: glog_catkin
